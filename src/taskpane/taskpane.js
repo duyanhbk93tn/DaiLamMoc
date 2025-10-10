@@ -11,7 +11,6 @@ Office.onReady((info) => {
     document.getElementById("app-body").style.display = "flex";
     document.getElementById("runA3").onclick = runA3;
     document.getElementById("runChiPhi").onclick = runChiPhi;
-    document.getElementById("runGoldTran").onclick = runChiPhi;
   }
 });
 
